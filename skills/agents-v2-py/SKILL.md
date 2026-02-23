@@ -6,9 +6,20 @@ description: |
   Triggers: "ImageBasedHostedAgentDefinition", "hosted agent", "container agent", "Foundry Agent",
   "create_version", "ProtocolVersionRecord", "AgentProtocol.RESPONSES", "custom agent image".
 package: azure-ai-projects
+risk: safe
+source: community
+
 ---
 
 # Azure AI Hosted Agents (Python)
+
+## When to Use
+
+- Use this skill when you need to Build container-based Foundry Agents using Azure AI Projects SDK with ImageBasedHostedAgentDefinition.
+Use when creating hosted agents that run custom code in Azure AI Foundry with your own container images.
+Triggers: "ImageBasedHostedAgentDefinition", "hosted agent", "container agent", "Foundry Agent",
+"create_version", "ProtocolVersionRecord", "AgentProtocol.RESPONSES", "custom agent image".
+
 
 Build container-based hosted agents using `ImageBasedHostedAgentDefinition` from the Azure AI Projects SDK.
 

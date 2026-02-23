@@ -3,9 +3,17 @@ name: make-automation
 description: "Automate Make (Integromat) tasks via Rube MCP (Composio): operations, enums, language and timezone lookups. Always search tools first for current schemas."
 requires:
   mcp: [rube]
+risk: safe
+source: community
+
 ---
 
 # Make Automation via Rube MCP
+
+## When to Use
+
+- Use this skill when you need to Automate Make (Integromat) tasks via Rube MCP (Composio): operations, enums, language and timezone lookups. Always search tools first for current schemas.
+
 
 Automate Make (formerly Integromat) operations through Composio's Make toolkit via Rube MCP.
 

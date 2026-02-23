@@ -1,6 +1,9 @@
 ---
 name: verification-before-completion
 description: Use when about to claim work is complete, fixed, or passing, before committing or creating PRs - requires running verification commands and confirming output before making any success claims; evidence before assertions always
+risk: safe
+source: community
+
 ---
 
 # Verification Before Completion
@@ -13,6 +16,11 @@ Claiming work is complete without verification is dishonesty, not efficiency.
 
 **Violating the letter of this rule is violating the spirit of this rule.**
 
+
+
+## When to Use
+
+- Use this skill when you need to use when about to claim work is complete, fixed, or passing, before committing or creating prs - requires running verification commands and confirming output before making any success claims; evidence before assertions always.
 ## The Iron Law
 
 ```

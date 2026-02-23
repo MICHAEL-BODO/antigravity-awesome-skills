@@ -6,6 +6,9 @@ description: Write idiomatic C++ code with modern features, RAII, smart
   or complex C++ patterns.
 metadata:
   model: opus
+risk: safe
+source: community
+
 ---
 
 ## Use this skill when

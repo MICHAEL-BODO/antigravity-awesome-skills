@@ -3,6 +3,9 @@ name: startup-business-analyst-financial-projections
 description: Create detailed 3-5 year financial model with revenue, costs, cash
   flow, and scenarios
 allowed-tools: Read Write Edit Glob Grep Bash WebSearch WebFetch
+risk: safe
+source: community
+
 ---
 
 # Financial Projections

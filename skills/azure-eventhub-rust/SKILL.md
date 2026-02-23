@@ -4,9 +4,18 @@ description: |
   Azure Event Hubs SDK for Rust. Use for sending and receiving events, streaming data ingestion.
   Triggers: "event hubs rust", "ProducerClient rust", "ConsumerClient rust", "send event rust", "streaming rust".
 package: azure_messaging_eventhubs
+risk: safe
+source: community
+
 ---
 
 # Azure Event Hubs SDK for Rust
+
+## When to Use
+
+- Use this skill when you need to Azure Event Hubs SDK for Rust. Use for sending and receiving events, streaming data ingestion.
+Triggers: "event hubs rust", "ProducerClient rust", "ConsumerClient rust", "send event rust", "streaming rust".
+
 
 Client library for Azure Event Hubs — big data streaming platform and event ingestion service.
 

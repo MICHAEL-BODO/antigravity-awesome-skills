@@ -8,6 +8,9 @@ description: Expert startup business analyst specializing in market sizing,
   through Series A startups.
 metadata:
   model: inherit
+risk: safe
+source: community
+
 ---
 
 ## Use this skill when

@@ -5,6 +5,9 @@ description: Draft cold emails, follow-ups, and proposal templates. Creates
   outreach or lead nurturing.
 metadata:
   model: haiku
+risk: safe
+source: community
+
 ---
 
 ## Use this skill when

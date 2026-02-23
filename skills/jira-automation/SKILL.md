@@ -3,9 +3,17 @@ name: jira-automation
 description: "Automate Jira tasks via Rube MCP (Composio): issues, projects, sprints, boards, comments, users. Always search tools first for current schemas."
 requires:
   mcp: [rube]
+risk: safe
+source: community
+
 ---
 
 # Jira Automation via Rube MCP
+
+## When to Use
+
+- Use this skill when you need to Automate Jira tasks via Rube MCP (Composio): issues, projects, sprints, boards, comments, users. Always search tools first for current schemas.
+
 
 Automate Jira operations through Composio's Jira toolkit via Rube MCP.
 

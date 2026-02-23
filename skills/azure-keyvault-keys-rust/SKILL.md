@@ -4,9 +4,18 @@ description: |
   Azure Key Vault Keys SDK for Rust. Use for creating, managing, and using cryptographic keys.
   Triggers: "keyvault keys rust", "KeyClient rust", "create key rust", "encrypt rust", "sign rust".
 package: azure_security_keyvault_keys
+risk: safe
+source: community
+
 ---
 
 # Azure Key Vault Keys SDK for Rust
+
+## When to Use
+
+- Use this skill when you need to Azure Key Vault Keys SDK for Rust. Use for creating, managing, and using cryptographic keys.
+Triggers: "keyvault keys rust", "KeyClient rust", "create key rust", "encrypt rust", "sign rust".
+
 
 Client library for Azure Key Vault Keys — secure storage and management of cryptographic keys.
 

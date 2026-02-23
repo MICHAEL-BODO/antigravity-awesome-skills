@@ -1,6 +1,9 @@
 ---
 name: finishing-a-development-branch
 description: Use when implementation is complete, all tests pass, and you need to decide how to integrate the work - guides completion of development work by presenting structured options for merge, PR, or cleanup
+risk: safe
+source: community
+
 ---
 
 # Finishing a Development Branch
@@ -13,6 +16,11 @@ Guide completion of development work by presenting clear options and handling ch
 
 **Announce at start:** "I'm using the finishing-a-development-branch skill to complete this work."
 
+
+
+## When to Use
+
+- Use this skill when you need to use when implementation is complete, all tests pass, and you need to decide how to integrate the work - guides completion of development work by presenting structured options for merge, pr, or cleanup.
 ## The Process
 
 ### Step 1: Verify Tests

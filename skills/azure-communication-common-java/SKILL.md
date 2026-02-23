@@ -2,9 +2,17 @@
 name: azure-communication-common-java
 description: Azure Communication Services common utilities for Java. Use when working with CommunicationTokenCredential, user identifiers, token refresh, or shared authentication across ACS services.
 package: com.azure:azure-communication-common
+risk: safe
+source: community
+
 ---
 
 # Azure Communication Common (Java)
+
+## When to Use
+
+- Use this skill when you need to Azure Communication Services common utilities for Java. Use when working with CommunicationTokenCredential, user identifiers, token refresh, or shared authentication across ACS services.
+
 
 Shared authentication utilities and data structures for Azure Communication Services.
 

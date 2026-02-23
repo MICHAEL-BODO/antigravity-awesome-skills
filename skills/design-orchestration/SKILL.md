@@ -5,9 +5,17 @@ description: >
   brainstorming, multi-agent review, and execution readiness
   in the correct order. Prevents premature implementation,
   skipped validation, and unreviewed high-risk designs.
+risk: safe
+source: community
+
 ---
 
 # Design Orchestration (Meta-Skill)
+
+## When to Use
+
+- Use this skill when you need to >.
+
 
 ## Purpose
 

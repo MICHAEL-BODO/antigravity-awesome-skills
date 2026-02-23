@@ -1,6 +1,9 @@
 ---
 name: executing-plans
 description: Use when you have a written implementation plan to execute in a separate session with review checkpoints
+risk: safe
+source: community
+
 ---
 
 # Executing Plans
@@ -13,6 +16,11 @@ Load plan, review critically, execute tasks in batches, report for review betwee
 
 **Announce at start:** "I'm using the executing-plans skill to implement this plan."
 
+
+
+## When to Use
+
+- Use this skill when you need to use when you have a written implementation plan to execute in a separate session with review checkpoints.
 ## The Process
 
 ### Step 1: Load and Review Plan

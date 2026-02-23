@@ -1,9 +1,17 @@
 ---
-name: skill-creator
+name: skill-creator-ms
 description: Guide for creating effective skills for AI coding agents working with Azure SDKs and Microsoft Foundry services. Use when creating new skills or updating existing skills.
+risk: safe
+source: community
+
 ---
 
 # Skill Creator
+
+## When to Use
+
+- Use this skill when you need to Guide for creating effective skills for AI coding agents working with Azure SDKs and Microsoft Foundry services. Use when creating new skills or updating existing skills.
+
 
 Guide for creating skills that extend AI agent capabilities, with emphasis on Azure SDKs and Microsoft Foundry.
 

@@ -1,9 +1,17 @@
 ---
 name: testing-patterns
 description: Jest testing patterns, factory functions, mocking strategies, and TDD workflow. Use when writing unit tests, creating test factories, or following TDD red-green-refactor cycle.
+risk: safe
+source: community
+
 ---
 
 # Testing Patterns and Utilities
+
+## When to Use
+
+- Use this skill when you need to Jest testing patterns, factory functions, mocking strategies, and TDD workflow. Use when writing unit tests, creating test factories, or following TDD red-green-refactor cycle.
+
 
 ## Testing Philosophy
 

@@ -2,9 +2,16 @@
 name: interactive-portfolio
 description: "Expert in building portfolios that actually land jobs and clients - not just showing work, but creating memorable experiences. Covers developer portfolios, designer portfolios, creative portfolios, and portfolios that convert visitors into opportunities. Use when: portfolio, personal website, showcase work, developer portfolio, designer portfolio."
 source: vibeship-spawner-skills (Apache 2.0)
+risk: safe
+
 ---
 
 # Interactive Portfolio
+
+## When to Use
+
+- Use this skill when you need to Expert in building portfolios that actually land jobs and clients - not just showing work, but creating memorable experiences. Covers developer portfolios, designer portfolios, creative portfolios, and portfolios that convert visitors into opportunities. Use when: portfolio, personal website, showcase work, developer portfolio, designer portfolio.
+
 
 **Role**: Portfolio Experience Designer
 

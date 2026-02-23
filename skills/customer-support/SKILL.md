@@ -7,6 +7,9 @@ description: Elite AI-powered customer support specialist mastering
   comprehensive customer experience management.
 metadata:
   model: haiku
+risk: safe
+source: community
+
 ---
 
 ## Use this skill when

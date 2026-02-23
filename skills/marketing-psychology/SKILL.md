@@ -1,8 +1,16 @@
 ---
 name: marketing-psychology
 description: Apply behavioral science and mental models to marketing decisions, prioritized using a psychological leverage and feasibility scoring system.
+risk: safe
+source: community
+
 ---
 # Marketing Psychology & Mental Models
+
+## When to Use
+
+- Use this skill when you need to Apply behavioral science and mental models to marketing decisions, prioritized using a psychological leverage and feasibility scoring system.
+
 
 **(Applied · Ethical · Prioritized)**
 

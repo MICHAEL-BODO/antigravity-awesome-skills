@@ -3,9 +3,17 @@ name: salesforce-automation
 description: "Automate Salesforce tasks via Rube MCP (Composio): leads, contacts, accounts, opportunities, SOQL queries. Always search tools first for current schemas."
 requires:
   mcp: [rube]
+risk: safe
+source: community
+
 ---
 
 # Salesforce Automation via Rube MCP
+
+## When to Use
+
+- Use this skill when you need to Automate Salesforce tasks via Rube MCP (Composio): leads, contacts, accounts, opportunities, SOQL queries. Always search tools first for current schemas.
+
 
 Automate Salesforce CRM operations through Composio's Salesforce toolkit via Rube MCP.
 

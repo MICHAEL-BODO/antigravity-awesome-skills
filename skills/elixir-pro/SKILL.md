@@ -6,6 +6,9 @@ description: Write idiomatic Elixir code with OTP patterns, supervision trees,
   optimizations.
 metadata:
   model: inherit
+risk: safe
+source: community
+
 ---
 
 ## Use this skill when

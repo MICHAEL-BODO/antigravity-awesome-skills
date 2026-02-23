@@ -7,6 +7,11 @@ source: self
 
 # Angular Best Practices
 
+## When to Use
+
+- Use this skill when you need to Angular performance optimization and best practices guide. Use when writing, reviewing, or refactoring Angular code for optimal performance, bundle size, and rendering efficiency.
+
+
 Comprehensive performance optimization guide for Angular applications. Contains prioritized rules for eliminating performance bottlenecks, optimizing bundles, and improving rendering.
 
 ## When to Apply

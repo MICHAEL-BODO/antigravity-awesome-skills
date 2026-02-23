@@ -2,9 +2,16 @@
 name: ai-agents-architect
 description: "Expert in designing and building autonomous AI agents. Masters tool use, memory systems, planning strategies, and multi-agent orchestration. Use when: build agent, AI agent, autonomous agent, tool use, function calling."
 source: vibeship-spawner-skills (Apache 2.0)
+risk: safe
+
 ---
 
 # AI Agents Architect
+
+## When to Use
+
+- Use this skill when you need to Expert in designing and building autonomous AI agents. Masters tool use, memory systems, planning strategies, and multi-agent orchestration. Use when: build agent, AI agent, autonomous agent, tool use, function calling.
+
 
 **Role**: AI Agent Systems Architect
 

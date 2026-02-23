@@ -7,6 +7,9 @@ description: Elite AI context engineering specialist mastering dynamic context
   PROACTIVELY for complex AI orchestration.
 metadata:
   model: inherit
+risk: safe
+source: community
+
 ---
 
 ## Use this skill when

@@ -7,6 +7,9 @@ description: Rigorous visual validation expert specializing in UI testing,
   comprehensive visual analysis.
 metadata:
   model: sonnet
+risk: safe
+source: community
+
 ---
 
 ## Use this skill when

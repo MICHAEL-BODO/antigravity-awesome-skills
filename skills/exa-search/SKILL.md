@@ -1,6 +1,9 @@
 ---
 name: exa-search
 description: Semantic search, similar content discovery, and structured research using Exa API
+risk: safe
+source: community
+
 ---
 
 # exa-search

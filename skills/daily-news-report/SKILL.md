@@ -5,9 +5,17 @@ argument-hint: [optional: date]
 disable-model-invocation: false
 user-invocable: true
 allowed-tools: Task, WebFetch, Read, Write, Bash(mkdir*), Bash(date*), Bash(ls*), mcp__chrome-devtools__*
+risk: safe
+source: community
+
 ---
 
 # Daily News Report v3.0
+
+## When to Use
+
+- Use this skill when you need to Scrapes content based on a preset URL list, filters high-quality technical information, and generates daily Markdown reports.
+
 
 > **Architecture Upgrade**: Main Agent Orchestration + SubAgent Execution + Browser Scraping + Smart Caching
 

@@ -7,6 +7,9 @@ description: Elite code review expert specializing in modern AI-powered code
   quality assurance.
 metadata:
   model: opus
+risk: safe
+source: community
+
 ---
 
 ## Use this skill when

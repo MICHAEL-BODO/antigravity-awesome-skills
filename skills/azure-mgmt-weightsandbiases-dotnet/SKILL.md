@@ -3,9 +3,17 @@ name: azure-mgmt-weightsandbiases-dotnet
 description: |
   Azure Weights & Biases SDK for .NET. ML experiment tracking and model management via Azure Marketplace. Use for creating W&B instances, managing SSO, marketplace integration, and ML observability. Triggers: "Weights and Biases", "W&B", "WeightsAndBiases", "ML experiment tracking", "model registry", "experiment management", "wandb".
 package: Azure.ResourceManager.WeightsAndBiases
+risk: safe
+source: community
+
 ---
 
 # Azure.ResourceManager.WeightsAndBiases (.NET)
+
+## When to Use
+
+- Use this skill when you need to Azure Weights & Biases SDK for .NET. ML experiment tracking and model management via Azure Marketplace. Use for creating W&B instances, managing SSO, marketplace integration, and ML observability. Triggers: "Weights and Biases", "W&B", "WeightsAndBiases", "ML experiment tracking", "model registry", "experiment management", "wandb".
+
 
 Azure Resource Manager SDK for deploying and managing Weights & Biases ML experiment tracking instances via Azure Marketplace.
 

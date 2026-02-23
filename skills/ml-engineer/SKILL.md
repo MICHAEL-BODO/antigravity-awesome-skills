@@ -6,6 +6,9 @@ description: Build production ML systems with PyTorch 2.x, TensorFlow, and
   optimization, or production ML infrastructure.
 metadata:
   model: inherit
+risk: safe
+source: community
+
 ---
 
 ## Use this skill when

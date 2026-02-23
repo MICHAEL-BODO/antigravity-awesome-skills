@@ -4,6 +4,9 @@ description: Initialize project with Conductor artifacts (product definition,
   tech stack, workflow, style guides)
 metadata:
   argument-hint: "[--resume]"
+risk: safe
+source: community
+
 ---
 
 # Conductor Setup

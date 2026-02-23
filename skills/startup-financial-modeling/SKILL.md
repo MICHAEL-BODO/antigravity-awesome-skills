@@ -6,6 +6,9 @@ description: This skill should be used when the user asks to "create financial
   planning for a startup.
 metadata:
   version: 1.0.0
+risk: safe
+source: community
+
 ---
 
 # Startup Financial Modeling

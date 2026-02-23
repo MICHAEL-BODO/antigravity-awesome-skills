@@ -7,6 +7,11 @@ source: self
 
 # Angular UI Patterns
 
+## When to Use
+
+- Use this skill when you need to Modern Angular UI patterns for loading states, error handling, and data display. Use when building UI components, handling async data, or managing component states.
+
+
 ## Core Principles
 
 1. **Never show stale UI** - Loading states only when actually loading

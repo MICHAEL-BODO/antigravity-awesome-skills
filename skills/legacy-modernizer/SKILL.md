@@ -6,6 +6,9 @@ description: Refactor legacy codebases, migrate outdated frameworks, and
   framework migrations, or technical debt reduction.
 metadata:
   model: sonnet
+risk: safe
+source: community
+
 ---
 
 ## Use this skill when

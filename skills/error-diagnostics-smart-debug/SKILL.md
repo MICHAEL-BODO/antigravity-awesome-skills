@@ -1,6 +1,9 @@
 ---
 name: error-diagnostics-smart-debug
 description: "Use when working with error diagnostics smart debug"
+risk: safe
+source: community
+
 ---
 
 ## Use this skill when

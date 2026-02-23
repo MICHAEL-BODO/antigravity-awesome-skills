@@ -3,9 +3,17 @@ name: linear-automation
 description: "Automate Linear tasks via Rube MCP (Composio): issues, projects, cycles, teams, labels. Always search tools first for current schemas."
 requires:
   mcp: [rube]
+risk: safe
+source: community
+
 ---
 
 # Linear Automation via Rube MCP
+
+## When to Use
+
+- Use this skill when you need to Automate Linear tasks via Rube MCP (Composio): issues, projects, cycles, teams, labels. Always search tools first for current schemas.
+
 
 Automate Linear operations through Composio's Linear toolkit via Rube MCP.
 

@@ -6,6 +6,9 @@ description: Master AI-powered test automation with modern frameworks,
   testing automation or quality assurance.
 metadata:
   model: sonnet
+risk: safe
+source: community
+
 ---
 
 ## Use this skill when

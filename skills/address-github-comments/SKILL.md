@@ -1,6 +1,9 @@
 ---
 name: address-github-comments
 description: Use when you need to address review or issue comments on an open GitHub Pull Request using the gh CLI.
+risk: safe
+source: community
+
 ---
 
 # Address GitHub Comments
@@ -9,6 +12,11 @@ description: Use when you need to address review or issue comments on an open Gi
 
 Efficiently address PR review comments or issue feedback using the GitHub CLI (`gh`). This skill ensures all feedback is addressed systematically.
 
+
+
+## When to Use
+
+- Use this skill when you need to use when you need to address review or issue comments on an open github pull request using the gh cli..
 ## Prerequisites
 
 Ensure `gh` is authenticated.

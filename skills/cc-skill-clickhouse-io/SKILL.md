@@ -1,8 +1,11 @@
 ---
-name: clickhouse-io
+name: cc-skill-clickhouse-io
 description: ClickHouse database patterns, query optimization, analytics, and data engineering best practices for high-performance analytical workloads.
 author: affaan-m
 version: "1.0"
+risk: safe
+source: community
+
 ---
 
 # ClickHouse Analytics Patterns
@@ -20,6 +23,11 @@ ClickHouse is a column-oriented database management system (DBMS) for online ana
 - Distributed queries
 - Real-time analytics
 
+
+
+## When to Use
+
+- Use this skill when you need to clickhouse database patterns, query optimization, analytics, and data engineering best practices for high-performance analytical workloads..
 ## Table Design Patterns
 
 ### MergeTree Engine (Most Common)

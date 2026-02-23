@@ -2,9 +2,17 @@
 name: templates
 description: Project scaffolding templates for new applications. Use when creating new projects from scratch. Contains 12 templates for various tech stacks.
 allowed-tools: Read, Glob, Grep
+risk: safe
+source: community
+
 ---
 
 # Project Templates
+
+## When to Use
+
+- Use this skill when you need to Project scaffolding templates for new applications. Use when creating new projects from scratch. Contains 12 templates for various tech stacks.
+
 
 > Quick-start templates for scaffolding new projects.
 

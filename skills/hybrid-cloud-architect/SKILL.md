@@ -8,6 +8,9 @@ description: Expert hybrid cloud architect specializing in complex multi-cloud
   multi-cloud strategy, or complex infrastructure integration.
 metadata:
   model: opus
+risk: safe
+source: community
+
 ---
 
 ## Use this skill when

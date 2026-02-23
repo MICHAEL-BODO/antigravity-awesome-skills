@@ -2,9 +2,17 @@
 name: azure-keyvault-keys-ts
 description: Manage cryptographic keys using Azure Key Vault Keys SDK for JavaScript (@azure/keyvault-keys). Use when creating, encrypting/decrypting, signing, or rotating keys.
 package: "@azure/keyvault-keys"
+risk: safe
+source: community
+
 ---
 
 # Azure Key Vault Keys SDK for TypeScript
+
+## When to Use
+
+- Use this skill when you need to Manage cryptographic keys using Azure Key Vault Keys SDK for JavaScript (@azure/keyvault-keys). Use when creating, encrypting/decrypting, signing, or rotating keys.
+
 
 Manage cryptographic keys with Azure Key Vault.
 

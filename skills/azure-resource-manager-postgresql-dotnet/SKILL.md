@@ -3,9 +3,17 @@ name: azure-resource-manager-postgresql-dotnet
 description: |
   Azure PostgreSQL Flexible Server SDK for .NET. Database management for PostgreSQL Flexible Server deployments. Use for creating servers, databases, firewall rules, configurations, backups, and high availability. Triggers: "PostgreSQL", "PostgreSqlFlexibleServer", "PostgreSQL Flexible Server", "Azure Database for PostgreSQL", "PostgreSQL database management", "PostgreSQL firewall", "PostgreSQL backup", "Postgres".
 package: Azure.ResourceManager.PostgreSql
+risk: safe
+source: community
+
 ---
 
 # Azure.ResourceManager.PostgreSql (.NET)
+
+## When to Use
+
+- Use this skill when you need to Azure PostgreSQL Flexible Server SDK for .NET. Database management for PostgreSQL Flexible Server deployments. Use for creating servers, databases, firewall rules, configurations, backups, and high availability. Triggers: "PostgreSQL", "PostgreSqlFlexibleServer", "PostgreSQL Flexible Server", "Azure Database for PostgreSQL", "PostgreSQL database management", "PostgreSQL firewall", "PostgreSQL backup", "Postgres".
+
 
 Azure Resource Manager SDK for managing PostgreSQL Flexible Server deployments.
 

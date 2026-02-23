@@ -2,9 +2,16 @@
 name: salesforce-development
 description: "Expert patterns for Salesforce platform development including Lightning Web Components (LWC), Apex triggers and classes, REST/Bulk APIs, Connected Apps, and Salesforce DX with scratch orgs and 2nd generation packages (2GP). Use when: salesforce, sfdc, apex, lwc, lightning web components."
 source: vibeship-spawner-skills (Apache 2.0)
+risk: safe
+
 ---
 
 # Salesforce Development
+
+## When to Use
+
+- Use this skill when you need to Expert patterns for Salesforce platform development including Lightning Web Components (LWC), Apex triggers and classes, REST/Bulk APIs, Connected Apps, and Salesforce DX with scratch orgs and 2nd generation packages (2GP). Use when: salesforce, sfdc, apex, lwc, lightning web components.
+
 
 ## Patterns
 

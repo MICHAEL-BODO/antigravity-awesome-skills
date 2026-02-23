@@ -1,6 +1,9 @@
 ---
 name: gemini-api-dev
 description: Use this skill when building applications with Gemini models, Gemini API, working with multimodal content (text, images, audio, video), implementing function calling, using structured outputs, or needing current model specifications. Covers SDK usage (google-genai for Python, @google/genai for JavaScript/TypeScript), model selection, and API capabilities.
+risk: safe
+source: community
+
 ---
 
 # Gemini API Development Skill
@@ -16,7 +19,11 @@ The Gemini API provides access to Google's most advanced AI models. Key capabili
 - **Context caching** - Cache large contexts for efficiency
 - **Embeddings** - Generate text embeddings for semantic search
 
-## Current Gemini Models
+
+
+## When to Use
+
+- Use this skill when you need to building applications with Gemini models, Gemini API, working with multimodal content (text, images, audio, video), implementing function calling, using structured outputs, or needing current model specifications. Covers SDK usage (google-genai for Python, @google/genai for JavaScript/TypeScript), model selection, and API capabilities.
 
 - `gemini-3-pro-preview`: 1M tokens, complex reasoning, coding, research
 - `gemini-3-flash-preview`: 1M tokens, fast, balanced performance, multimodal

@@ -5,9 +5,19 @@ description: |
   on Azure via Azure Marketplace, creating/updating/deleting Arize resources, or integrating Arize ML observability 
   into .NET applications. Triggers: "Arize AI", "ML observability", "ArizeAIObservabilityEval", "Arize organization".
 package: Azure.ResourceManager.ArizeAIObservabilityEval
+risk: safe
+source: community
+
 ---
 
 # Azure.ResourceManager.ArizeAIObservabilityEval
+
+## When to Use
+
+- Use this skill when you need to Azure Resource Manager SDK for Arize AI Observability and Evaluation (.NET). Use when managing Arize AI organizations
+on Azure via Azure Marketplace, creating/updating/deleting Arize resources, or integrating Arize ML observability
+into .NET applications. Triggers: "Arize AI", "ML observability", "ArizeAIObservabilityEval", "Arize organization".
+
 
 .NET SDK for managing Arize AI Observability and Evaluation resources on Azure.
 

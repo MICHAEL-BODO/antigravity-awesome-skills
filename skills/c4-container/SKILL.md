@@ -7,6 +7,9 @@ description: Expert C4 Container-level documentation specialist. Synthesizes
   containers and documenting system deployment architecture.
 metadata:
   model: sonnet
+risk: safe
+source: community
+
 ---
 
 # C4 Container Level: System Deployment

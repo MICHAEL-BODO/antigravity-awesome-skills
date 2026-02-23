@@ -4,9 +4,18 @@ description: |
   Azure AI Text Analytics SDK for sentiment analysis, entity recognition, key phrases, language detection, PII, and healthcare NLP. Use for natural language processing on text.
   Triggers: "text analytics", "sentiment analysis", "entity recognition", "key phrase", "PII detection", "TextAnalyticsClient".
 package: azure-ai-textanalytics
+risk: safe
+source: community
+
 ---
 
 # Azure AI Text Analytics SDK for Python
+
+## When to Use
+
+- Use this skill when you need to Azure AI Text Analytics SDK for sentiment analysis, entity recognition, key phrases, language detection, PII, and healthcare NLP. Use for natural language processing on text.
+Triggers: "text analytics", "sentiment analysis", "entity recognition", "key phrase", "PII detection", "TextAnalyticsClient".
+
 
 Client library for Azure AI Language service NLP capabilities including sentiment, entities, key phrases, and more.
 

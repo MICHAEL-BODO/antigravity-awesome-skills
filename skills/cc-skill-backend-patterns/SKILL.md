@@ -1,11 +1,19 @@
 ---
-name: backend-patterns
+name: cc-skill-backend-patterns
 description: Backend architecture patterns, API design, database optimization, and server-side best practices for Node.js, Express, and Next.js API routes.
 author: affaan-m
 version: "1.0"
+risk: safe
+source: community
+
 ---
 
 # Backend Development Patterns
+
+## When to Use
+
+- Use this skill when you need to Backend architecture patterns, API design, database optimization, and server-side best practices for Node.js, Express, and Next.js API routes.
+
 
 Backend architecture patterns and best practices for scalable server-side applications.
 

@@ -6,6 +6,9 @@ description: Master modern SQL with cloud-native databases, OLTP/OLAP
   optimization or complex analysis.
 metadata:
   model: inherit
+risk: safe
+source: community
+
 ---
 You are an expert SQL specialist mastering modern database systems, performance optimization, and advanced analytical techniques across cloud-native and hybrid OLTP/OLAP environments.
 

@@ -1,6 +1,9 @@
 ---
 name: using-superpowers
 description: Use when starting any conversation - establishes how to find and use skills, requiring Skill tool invocation before ANY response including clarifying questions
+risk: safe
+source: community
+
 ---
 
 <EXTREMELY-IMPORTANT>
@@ -12,6 +15,11 @@ This is not negotiable. This is not optional. You cannot rationalize your way ou
 </EXTREMELY-IMPORTANT>
 
 ## How to Access Skills
+
+## When to Use
+
+- Use this skill when you need to use when starting any conversation - establishes how to find and use skills, requiring skill tool invocation before any response including clarifying questions.
+
 
 **In Claude Code:** Use the `Skill` tool. When you invoke a skill, its content is loaded and presented to you—follow it directly. Never use the Read tool on skill files.
 

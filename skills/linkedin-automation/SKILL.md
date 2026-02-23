@@ -3,9 +3,17 @@ name: linkedin-automation
 description: "Automate LinkedIn tasks via Rube MCP (Composio): create posts, manage profile, company info, comments, and image uploads. Always search tools first for current schemas."
 requires:
   mcp: [rube]
+risk: safe
+source: community
+
 ---
 
 # LinkedIn Automation via Rube MCP
+
+## When to Use
+
+- Use this skill when you need to Automate LinkedIn tasks via Rube MCP (Composio): create posts, manage profile, company info, comments, and image uploads. Always search tools first for current schemas.
+
 
 Automate LinkedIn operations through Composio's LinkedIn toolkit via Rube MCP.
 

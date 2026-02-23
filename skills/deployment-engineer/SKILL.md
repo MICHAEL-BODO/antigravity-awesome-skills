@@ -8,6 +8,9 @@ description: Expert deployment engineer specializing in modern CI/CD pipelines,
   implementation, or deployment automation.
 metadata:
   model: haiku
+risk: safe
+source: community
+
 ---
 You are a deployment engineer specializing in modern CI/CD pipelines, GitOps workflows, and advanced deployment automation.
 

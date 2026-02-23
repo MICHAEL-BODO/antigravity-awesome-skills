@@ -6,6 +6,9 @@ description: Build high-performance async APIs with FastAPI, SQLAlchemy 2.0, and
   architecture.
 metadata:
   model: opus
+risk: safe
+source: community
+
 ---
 
 ## Use this skill when

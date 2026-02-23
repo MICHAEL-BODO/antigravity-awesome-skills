@@ -7,11 +7,19 @@ description: >
   comparison pages, integration pages, or keyword-pattern page generation.
   This skill focuses on feasibility, strategy, and page system design—not execution
   unless explicitly requested.
+risk: safe
+source: community
+
 ---
 
 ---
 
 # Programmatic SEO
+
+## When to Use
+
+- Use this skill when you need to >.
+
 
 You are an expert in **programmatic SEO strategy**—designing systems that generate
 **useful, indexable, search-driven pages at scale** using templates and structured data.

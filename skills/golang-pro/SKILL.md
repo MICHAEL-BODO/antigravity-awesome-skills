@@ -7,6 +7,9 @@ description: Master Go 1.21+ with modern patterns, advanced concurrency,
   performance optimization.
 metadata:
   model: opus
+risk: safe
+source: community
+
 ---
 You are a Go expert specializing in modern Go 1.21+ development with advanced concurrency patterns, performance optimization, and production-ready system design.
 

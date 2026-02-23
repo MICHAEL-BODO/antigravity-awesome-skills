@@ -6,6 +6,9 @@ description: Creates step-by-step tutorials and educational content from code.
   or concept explanations.
 metadata:
   model: sonnet
+risk: safe
+source: community
+
 ---
 
 ## Use this skill when

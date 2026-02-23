@@ -6,6 +6,9 @@ description: Build financial models, backtest trading strategies, and analyze
   risk analysis.
 metadata:
   model: inherit
+risk: safe
+source: community
+
 ---
 
 ## Use this skill when

@@ -3,9 +3,18 @@ name: azure-mgmt-fabric-py
 description: |
   Azure Fabric Management SDK for Python. Use for managing Microsoft Fabric capacities and resources.
   Triggers: "azure-mgmt-fabric", "FabricMgmtClient", "Fabric capacity", "Microsoft Fabric", "Power BI capacity".
+risk: safe
+source: community
+
 ---
 
 # Azure Fabric Management SDK for Python
+
+## When to Use
+
+- Use this skill when you need to Azure Fabric Management SDK for Python. Use for managing Microsoft Fabric capacities and resources.
+Triggers: "azure-mgmt-fabric", "FabricMgmtClient", "Fabric capacity", "Microsoft Fabric", "Power BI capacity".
+
 
 Manage Microsoft Fabric capacities and resources programmatically.
 

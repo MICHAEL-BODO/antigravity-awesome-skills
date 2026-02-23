@@ -2,9 +2,17 @@
 name: azure-communication-chat-java
 description: Build real-time chat applications with Azure Communication Services Chat Java SDK. Use when implementing chat threads, messaging, participants, read receipts, typing notifications, or real-time chat features.
 package: com.azure:azure-communication-chat
+risk: safe
+source: community
+
 ---
 
 # Azure Communication Chat (Java)
+
+## When to Use
+
+- Use this skill when you need to Build real-time chat applications with Azure Communication Services Chat Java SDK. Use when implementing chat threads, messaging, participants, read receipts, typing notifications, or real-time chat features.
+
 
 Build real-time chat applications with thread management, messaging, participants, and read receipts.
 

@@ -2,9 +2,17 @@
 name: deployment-procedures
 description: Production deployment principles and decision-making. Safe deployment workflows, rollback strategies, and verification. Teaches thinking, not scripts.
 allowed-tools: Read, Glob, Grep, Bash
+risk: safe
+source: community
+
 ---
 
 # Deployment Procedures
+
+## When to Use
+
+- Use this skill when you need to Production deployment principles and decision-making. Safe deployment workflows, rollback strategies, and verification. Teaches thinking, not scripts.
+
 
 > Deployment principles and decision-making for safe production releases.
 > **Learn to THINK, not memorize scripts.**

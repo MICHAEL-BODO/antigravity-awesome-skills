@@ -4,9 +4,18 @@ description: |
   Azure AI VoiceLive SDK for Java. Real-time bidirectional voice conversations with AI assistants using WebSocket.
   Triggers: "VoiceLiveClient java", "voice assistant java", "real-time voice java", "audio streaming java", "voice activity detection java".
 package: com.azure:azure-ai-voicelive
+risk: safe
+source: community
+
 ---
 
 # Azure AI VoiceLive SDK for Java
+
+## When to Use
+
+- Use this skill when you need to Azure AI VoiceLive SDK for Java. Real-time bidirectional voice conversations with AI assistants using WebSocket.
+Triggers: "VoiceLiveClient java", "voice assistant java", "real-time voice java", "audio streaming java", "voice activity detection java".
+
 
 Real-time, bidirectional voice conversations with AI assistants using WebSocket technology.
 

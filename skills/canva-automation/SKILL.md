@@ -3,9 +3,17 @@ name: canva-automation
 description: "Automate Canva tasks via Rube MCP (Composio): designs, exports, folders, brand templates, autofill. Always search tools first for current schemas."
 requires:
   mcp: [rube]
+risk: safe
+source: community
+
 ---
 
 # Canva Automation via Rube MCP
+
+## When to Use
+
+- Use this skill when you need to Automate Canva tasks via Rube MCP (Composio): designs, exports, folders, brand templates, autofill. Always search tools first for current schemas.
+
 
 Automate Canva design operations through Composio's Canva toolkit via Rube MCP.
 

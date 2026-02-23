@@ -4,9 +4,18 @@ description: |
   Azure AI Agents Persistent SDK for Java. Low-level SDK for creating and managing AI agents with threads, messages, runs, and tools.
   Triggers: "PersistentAgentsClient", "persistent agents java", "agent threads java", "agent runs java", "streaming agents java".
 package: com.azure:azure-ai-agents-persistent
+risk: safe
+source: community
+
 ---
 
 # Azure AI Agents Persistent SDK for Java
+
+## When to Use
+
+- Use this skill when you need to Azure AI Agents Persistent SDK for Java. Low-level SDK for creating and managing AI agents with threads, messages, runs, and tools.
+Triggers: "PersistentAgentsClient", "persistent agents java", "agent threads java", "agent runs java", "streaming agents java".
+
 
 Low-level SDK for creating and managing persistent AI agents with threads, messages, runs, and tools.
 

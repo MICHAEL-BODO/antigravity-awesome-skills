@@ -1,6 +1,9 @@
 ---
 name: tdd-workflows-tdd-cycle
 description: "Use when working with tdd workflows tdd cycle"
+risk: safe
+source: community
+
 ---
 
 ## Use this skill when

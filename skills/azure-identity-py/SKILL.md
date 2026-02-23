@@ -4,9 +4,18 @@ description: |
   Azure Identity SDK for Python authentication. Use for DefaultAzureCredential, managed identity, service principals, and token caching.
   Triggers: "azure-identity", "DefaultAzureCredential", "authentication", "managed identity", "service principal", "credential".
 package: azure-identity
+risk: safe
+source: community
+
 ---
 
 # Azure Identity SDK for Python
+
+## When to Use
+
+- Use this skill when you need to Azure Identity SDK for Python authentication. Use for DefaultAzureCredential, managed identity, service principals, and token caching.
+Triggers: "azure-identity", "DefaultAzureCredential", "authentication", "managed identity", "service principal", "credential".
+
 
 Authentication library for Azure SDK clients using Microsoft Entra ID (formerly Azure AD).
 

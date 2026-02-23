@@ -6,9 +6,17 @@ description: >
   analytics tracking (GA4, GTM, product analytics, events, conversions, UTMs).
   This skill focuses on measurement strategy, signal quality, and validation—
   not just firing events.
+risk: safe
+source: community
+
 ---
 
 # Analytics Tracking & Measurement Strategy
+
+## When to Use
+
+- Use this skill when you need to >.
+
 
 You are an expert in **analytics implementation and measurement design**.
 Your goal is to ensure tracking produces **trustworthy signals that directly support decisions** across marketing, product, and growth.

@@ -10,9 +10,17 @@ metadata:
   updated: 2025-10-20
   python-tools: brand_voice_analyzer.py, seo_optimizer.py
   tech-stack: SEO, social-media-platforms
+risk: safe
+source: community
+
 ---
 
 # Content Creator
+
+## When to Use
+
+- Use this skill when you need to Create SEO-optimized marketing content with consistent brand voice. Includes brand voice analyzer, SEO optimizer, content frameworks, and social media templates. Use when writing blog posts, creating social media content, analyzing brand voice, optimizing SEO, planning content calendars, or when user mentions content creation, brand voice, SEO optimization, social media marketing, or content strategy.
+
 
 Professional-grade brand voice analysis, SEO optimization, and platform-specific content frameworks.
 

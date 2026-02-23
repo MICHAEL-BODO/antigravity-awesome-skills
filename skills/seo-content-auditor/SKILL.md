@@ -5,6 +5,9 @@ description: Analyzes provided content for quality, E-E-A-T signals, and SEO
   on established guidelines. Use PROACTIVELY for content review.
 metadata:
   model: sonnet
+risk: safe
+source: community
+
 ---
 
 ## Use this skill when
