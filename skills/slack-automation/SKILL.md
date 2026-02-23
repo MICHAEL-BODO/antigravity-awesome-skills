@@ -3,9 +3,17 @@ name: slack-automation
 description: "Automate Slack messaging, channel management, search, reactions, and threads via Rube MCP (Composio). Send messages, search conversations, manage channels/users, and react to messages programmatically."
 requires:
   mcp: [rube]
+risk: safe
+source: community
+
 ---
 
 # Slack Automation via Rube MCP
+
+## When to Use
+
+- Use this skill when you need to Automate Slack messaging, channel management, search, reactions, and threads via Rube MCP (Composio). Send messages, search conversations, manage channels/users, and react to messages programmatically.
+
 
 Automate Slack workspace operations including messaging, search, channel management, and reaction workflows through Composio's Slack toolkit.
 

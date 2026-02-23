@@ -6,9 +6,17 @@ description: >
   structured, sequential multi-agent design review where each agent
   has a strict, non-overlapping role. It prevents blind spots,
   false confidence, and premature convergence.
+risk: safe
+source: community
+
 ---
 
 # Multi-Agent Brainstorming (Structured Design Review)
+
+## When to Use
+
+- Use this skill when you need to >.
+
 
 ## Purpose
 

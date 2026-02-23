@@ -5,11 +5,19 @@ description: >
   content quality, and how modern search engines evaluate pages. This skill explains
   *why* SEO works, not how to execute specific optimizations.
 allowed-tools: Read, Glob, Grep
+risk: safe
+source: community
+
 ---
 
 ---
 
 # SEO Fundamentals
+
+## When to Use
+
+- Use this skill when you need to >.
+
 
 > **Foundational principles for sustainable search visibility.**
 > This skill explains _how search engines evaluate quality_, not tactical shortcuts.

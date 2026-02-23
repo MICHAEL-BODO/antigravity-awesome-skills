@@ -5,6 +5,9 @@ description: Expert in strict POSIX sh scripting for maximum portability across
   POSIX-compliant shell (dash, ash, sh, bash --posix).
 metadata:
   model: sonnet
+risk: safe
+source: community
+
 ---
 
 ## Use this skill when

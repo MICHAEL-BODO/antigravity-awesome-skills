@@ -4,9 +4,18 @@ description: |
   Azure Machine Learning SDK v2 for Python. Use for ML workspaces, jobs, models, datasets, compute, and pipelines.
   Triggers: "azure-ai-ml", "MLClient", "workspace", "model registry", "training jobs", "datasets".
 package: azure-ai-ml
+risk: safe
+source: community
+
 ---
 
 # Azure Machine Learning SDK v2 for Python
+
+## When to Use
+
+- Use this skill when you need to Azure Machine Learning SDK v2 for Python. Use for ML workspaces, jobs, models, datasets, compute, and pipelines.
+Triggers: "azure-ai-ml", "MLClient", "workspace", "model registry", "training jobs", "datasets".
+
 
 Client library for managing Azure ML resources: workspaces, jobs, models, data, and compute.
 

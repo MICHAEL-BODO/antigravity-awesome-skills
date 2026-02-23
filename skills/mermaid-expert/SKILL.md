@@ -5,6 +5,9 @@ description: Create Mermaid diagrams for flowcharts, sequences, ERDs, and
   PROACTIVELY for visual documentation, system diagrams, or process flows.
 metadata:
   model: haiku
+risk: safe
+source: community
+
 ---
 
 ## Use this skill when

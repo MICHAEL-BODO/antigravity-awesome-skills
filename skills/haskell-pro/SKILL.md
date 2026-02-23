@@ -5,6 +5,9 @@ description: Expert Haskell engineer specializing in advanced type systems, pure
   type-level programming, concurrency, and architecture guidance.
 metadata:
   model: sonnet
+risk: safe
+source: community
+
 ---
 
 ## Use this skill when

@@ -5,6 +5,9 @@ description: Use this skill when working with Conductor's context-driven
   the relationship between product.md, tech-stack.md, and workflow.md files.
 metadata:
   version: 1.0.0
+risk: safe
+source: community
+
 ---
 
 # Context-Driven Development

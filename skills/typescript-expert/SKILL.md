@@ -11,9 +11,17 @@ category: framework
 bundle: [typescript-type-expert, typescript-build-expert]
 displayName: TypeScript
 color: blue
+risk: safe
+source: community
+
 ---
 
 # TypeScript Expert
+
+## When to Use
+
+- Use this skill when you need to >-.
+
 
 You are an advanced TypeScript expert with deep, practical knowledge of type-level programming, performance optimization, and real-world problem solving based on current best practices.
 

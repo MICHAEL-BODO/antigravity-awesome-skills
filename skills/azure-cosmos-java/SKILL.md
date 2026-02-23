@@ -4,9 +4,18 @@ description: |
   Azure Cosmos DB SDK for Java. NoSQL database operations with global distribution, multi-model support, and reactive patterns.
   Triggers: "CosmosClient java", "CosmosAsyncClient", "cosmos database java", "cosmosdb java", "document database java".
 package: azure-cosmos
+risk: safe
+source: community
+
 ---
 
 # Azure Cosmos DB SDK for Java
+
+## When to Use
+
+- Use this skill when you need to Azure Cosmos DB SDK for Java. NoSQL database operations with global distribution, multi-model support, and reactive patterns.
+Triggers: "CosmosClient java", "CosmosAsyncClient", "cosmos database java", "cosmosdb java", "document database java".
+
 
 Client library for Azure Cosmos DB NoSQL API with global distribution and reactive patterns.
 

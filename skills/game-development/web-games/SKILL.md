@@ -2,9 +2,17 @@
 name: web-games
 description: Web browser game development principles. Framework selection, WebGPU, optimization, PWA.
 allowed-tools: Read, Write, Edit, Glob, Grep
+risk: safe
+source: community
+
 ---
 
 # Web Browser Game Development
+
+## When to Use
+
+- Use this skill when you need to Web browser game development principles. Framework selection, WebGPU, optimization, PWA.
+
 
 > Framework selection and browser-specific principles.
 

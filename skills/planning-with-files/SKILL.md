@@ -31,6 +31,9 @@ hooks:
     - hooks:
         - type: command
           command: "${CLAUDE_PLUGIN_ROOT}/scripts/check-complete.sh"
+risk: safe
+source: community
+
 ---
 
 # Planning with Files

@@ -5,9 +5,17 @@ description: >
   for any page (homepage, landing page, pricing, feature, product, or about page).
   This skill produces clear, compelling, and testable copy while enforcing
   alignment, honesty, and conversion best practices.
+risk: safe
+source: community
+
 ---
 
 # Copywriting
+
+## When to Use
+
+- Use this skill when you need to >.
+
 
 ## Purpose
 

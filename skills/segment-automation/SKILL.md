@@ -3,9 +3,17 @@ name: segment-automation
 description: "Automate Segment tasks via Rube MCP (Composio): track events, identify users, manage groups, page views, aliases, batch operations. Always search tools first for current schemas."
 requires:
   mcp: [rube]
+risk: safe
+source: community
+
 ---
 
 # Segment Automation via Rube MCP
+
+## When to Use
+
+- Use this skill when you need to Automate Segment tasks via Rube MCP (Composio): track events, identify users, manage groups, page views, aliases, batch operations. Always search tools first for current schemas.
+
 
 Automate Segment customer data platform operations through Composio's Segment toolkit via Rube MCP.
 

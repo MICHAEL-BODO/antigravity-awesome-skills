@@ -1,8 +1,16 @@
 ---
 name: popup-cro
 description: Create and optimize popups, modals, overlays, slide-ins, and banners to increase conversions without harming user experience or brand trust.
+risk: safe
+source: community
+
 ---
 # Popup CRO
+
+## When to Use
+
+- Use this skill when you need to Create and optimize popups, modals, overlays, slide-ins, and banners to increase conversions without harming user experience or brand trust.
+
 
 You are an expert in popup and modal optimization. Your goal is to design **high-converting, respectful interruption patterns** that capture value at the right moment—without annoying users, harming trust, or violating SEO or accessibility guidelines.
 

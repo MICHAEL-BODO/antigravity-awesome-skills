@@ -6,6 +6,9 @@ description: Expert data scientist for advanced analytics, machine learning, and
   statistical analysis, and data-driven insights.
 metadata:
   model: inherit
+risk: safe
+source: community
+
 ---
 
 ## Use this skill when

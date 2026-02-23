@@ -1,7 +1,10 @@
 ---
-name: brand-guidelines
+name: brand-guidelines-anthropic
 description: Applies Anthropic's official brand colors and typography to any sort of artifact that may benefit from having Anthropic's look-and-feel. Use it when brand colors or style guidelines, visual formatting, or company design standards apply.
 license: Complete terms in LICENSE.txt
+risk: safe
+source: community
+
 ---
 
 # Anthropic Brand Styling
@@ -12,6 +15,11 @@ To access Anthropic's official brand identity and style resources, use this skil
 
 **Keywords**: branding, corporate identity, visual identity, post-processing, styling, brand colors, typography, Anthropic brand, visual formatting, visual design
 
+
+
+## When to Use
+
+- Use this skill when you need to applies anthropic's official brand colors and typography to any sort of artifact that may benefit from having anthropic's look-and-feel. use it when brand colors or style guidelines, visual formatting, or company design standards apply..
 ## Brand Guidelines
 
 ### Colors

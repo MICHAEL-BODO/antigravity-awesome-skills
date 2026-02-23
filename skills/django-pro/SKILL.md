@@ -6,6 +6,9 @@ description: Master Django 5.x with async views, DRF, Celery, and Django
   complex Django patterns.
 metadata:
   model: opus
+risk: safe
+source: community
+
 ---
 
 ## Use this skill when

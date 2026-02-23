@@ -2,9 +2,17 @@
 name: multiplayer
 description: Multiplayer game development principles. Architecture, networking, synchronization.
 allowed-tools: Read, Write, Edit, Glob, Grep, Bash
+risk: safe
+source: community
+
 ---
 
 # Multiplayer Game Development
+
+## When to Use
+
+- Use this skill when you need to Multiplayer game development principles. Architecture, networking, synchronization.
+
 
 > Networking architecture and synchronization principles.
 

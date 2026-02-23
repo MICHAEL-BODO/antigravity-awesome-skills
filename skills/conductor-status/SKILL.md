@@ -3,6 +3,9 @@ name: conductor-status
 description: Display project status, active tracks, and next actions
 metadata:
   argument-hint: "[track-id] [--detailed]"
+risk: safe
+source: community
+
 ---
 
 # Conductor Status

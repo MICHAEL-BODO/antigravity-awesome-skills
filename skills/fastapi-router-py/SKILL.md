@@ -1,9 +1,17 @@
 ---
 name: fastapi-router-py
 description: Create FastAPI routers with CRUD operations, authentication dependencies, and proper response models. Use when building REST API endpoints, creating new routes, implementing CRUD operations, or adding authenticated endpoints in FastAPI applications.
+risk: safe
+source: community
+
 ---
 
 # FastAPI Router
+
+## When to Use
+
+- Use this skill when you need to Create FastAPI routers with CRUD operations, authentication dependencies, and proper response models. Use when building REST API endpoints, creating new routes, implementing CRUD operations, or adding authenticated endpoints in FastAPI applications.
+
 
 Create FastAPI routers following established patterns with proper authentication, response models, and HTTP status codes.
 

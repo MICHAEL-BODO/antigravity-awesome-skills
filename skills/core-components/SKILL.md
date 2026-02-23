@@ -1,9 +1,17 @@
 ---
 name: core-components
 description: Core component library and design system patterns. Use when building UI, using design tokens, or working with the component library.
+risk: safe
+source: community
+
 ---
 
 # Core Components
+
+## When to Use
+
+- Use this skill when you need to Core component library and design system patterns. Use when building UI, using design tokens, or working with the component library.
+
 
 ## Design System Overview
 

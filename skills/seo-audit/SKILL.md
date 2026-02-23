@@ -7,9 +7,17 @@ description: >
   This skill identifies issues and prioritizes actions but does not execute changes.
   For large-scale page creation, use programmatic-seo. For structured data, use
   schema-markup.
+risk: safe
+source: community
+
 ---
 
 # SEO Audit
+
+## When to Use
+
+- Use this skill when you need to >.
+
 
 You are an **SEO diagnostic specialist**.
 Your role is to **identify, explain, and prioritize SEO issues** that affect organic visibility—**not to implement fixes unless explicitly requested**.

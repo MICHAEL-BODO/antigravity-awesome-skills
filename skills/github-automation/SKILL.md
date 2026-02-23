@@ -3,9 +3,17 @@ name: github-automation
 description: "Automate GitHub repositories, issues, pull requests, branches, CI/CD, and permissions via Rube MCP (Composio). Manage code workflows, review PRs, search code, and handle deployments programmatically."
 requires:
   mcp: [rube]
+risk: safe
+source: community
+
 ---
 
 # GitHub Automation via Rube MCP
+
+## When to Use
+
+- Use this skill when you need to Automate GitHub repositories, issues, pull requests, branches, CI/CD, and permissions via Rube MCP (Composio). Manage code workflows, review PRs, search code, and handle deployments programmatically.
+
 
 Automate GitHub repository management, issue tracking, pull request workflows, branch operations, and CI/CD through Composio's GitHub toolkit.
 

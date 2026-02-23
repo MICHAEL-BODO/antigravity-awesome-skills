@@ -1,12 +1,20 @@
 ---
-name: Windows Privilege Escalation
+name: windows-privilege-escalation
 description: This skill should be used when the user asks to "escalate privileges on Windows," "find Windows privesc vectors," "enumerate Windows for privilege escalation," "exploit Windows misconfigurations," or "perform post-exploitation privilege escalation." It provides comprehensive guidance for discovering and exploiting privilege escalation vulnerabilities in Windows environments.
 metadata:
   author: zebbern
   version: "1.1"
+risk: safe
+source: community
+
 ---
 
 # Windows Privilege Escalation
+
+## When to Use
+
+- Use this skill when you need to escalate privileges on Windows," "find Windows privesc vectors," "enumerate Windows for privilege escalation," "exploit Windows misconfigurations," or "perform post-exploitation privilege escalation." It provides comprehensive guidance for discovering and exploiting privilege escalation vulnerabilities in Windows environments.
+
 
 ## Purpose
 

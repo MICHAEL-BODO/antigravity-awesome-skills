@@ -1,9 +1,17 @@
 ---
 name: product-manager-toolkit
 description: Comprehensive toolkit for product managers including RICE prioritization, customer interview analysis, PRD templates, discovery frameworks, and go-to-market strategies. Use for feature prioritization, user research synthesis, requirement documentation, and product strategy development.
+risk: safe
+source: community
+
 ---
 
 # Product Manager Toolkit
+
+## When to Use
+
+- Use this skill when you need to Comprehensive toolkit for product managers including RICE prioritization, customer interview analysis, PRD templates, discovery frameworks, and go-to-market strategies. Use for feature prioritization, user research synthesis, requirement documentation, and product strategy development.
+
 
 Essential tools and frameworks for modern product management, from discovery to delivery.
 

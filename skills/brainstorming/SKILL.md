@@ -5,9 +5,17 @@ description: >
   (features, components, architecture, behavior changes, or functionality).
   This skill transforms vague ideas into validated designs through
   disciplined, incremental reasoning and collaboration.
+risk: safe
+source: community
+
 ---
 
 # Brainstorming Ideas Into Designs
+
+## When to Use
+
+- Use this skill when you need to >.
+
 
 ## Purpose
 

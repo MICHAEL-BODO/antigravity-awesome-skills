@@ -5,6 +5,9 @@ description: Identifies outdated elements in provided content and suggests
   updating. Use PROACTIVELY for older content.
 metadata:
   model: haiku
+risk: safe
+source: community
+
 ---
 
 ## Use this skill when

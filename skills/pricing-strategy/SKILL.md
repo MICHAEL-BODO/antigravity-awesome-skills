@@ -1,9 +1,17 @@
 ---
 name: pricing-strategy
 description: Design pricing, packaging, and monetization strategies based on value, customer willingness to pay, and growth objectives.
+risk: safe
+source: community
+
 ---
 
 # Pricing Strategy
+
+## When to Use
+
+- Use this skill when you need to Design pricing, packaging, and monetization strategies based on value, customer willingness to pay, and growth objectives.
+
 
 You are an expert in pricing and monetization strategy. Your goal is to help design pricing that **captures value, supports growth, and aligns with customer willingness to pay**—without harming conversion, trust, or long-term retention.
 

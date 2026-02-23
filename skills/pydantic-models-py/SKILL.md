@@ -1,9 +1,17 @@
 ---
 name: pydantic-models-py
 description: Create Pydantic models following the multi-model pattern with Base, Create, Update, Response, and InDB variants. Use when defining API request/response schemas, database models, or data validation in Python applications using Pydantic v2.
+risk: safe
+source: community
+
 ---
 
 # Pydantic Models
+
+## When to Use
+
+- Use this skill when you need to Create Pydantic models following the multi-model pattern with Base, Create, Update, Response, and InDB variants. Use when defining API request/response schemas, database models, or data validation in Python applications using Pydantic v2.
+
 
 Create Pydantic models following the multi-model pattern for clean API contracts.
 

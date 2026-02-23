@@ -1,6 +1,9 @@
 ---
 name: playwright-skill
 description: Complete browser automation with Playwright. Auto-detects dev servers, writes clean test scripts to /tmp. Test pages, fill forms, take screenshots, check responsive design, validate UX, test login flows, check links, automate any browser task. Use when user wants to test websites, automate browser interactions, validate web functionality, or perform any browser-based testing.
+risk: safe
+source: community
+
 ---
 
 **IMPORTANT - Path Resolution:**
@@ -13,6 +16,11 @@ Common installation paths:
 - Project-specific: `<project>/.claude/skills/playwright-skill`
 
 # Playwright Browser Automation
+
+## When to Use
+
+- Use this skill when you need to Complete browser automation with Playwright. Auto-detects dev servers, writes clean test scripts to /tmp. Test pages, fill forms, take screenshots, check responsive design, validate UX, test login flows, check links, automate any browser task. Use when user wants to test websites, automate browser interactions, validate web functionality, or perform any browser-based testing.
+
 
 General-purpose browser automation skill. I'll write custom Playwright code for any automation task you request and execute it via the universal executor.
 

@@ -3,9 +3,17 @@ name: render-automation
 description: "Automate Render tasks via Rube MCP (Composio): services, deployments, projects. Always search tools first for current schemas."
 requires:
   mcp: [rube]
+risk: safe
+source: community
+
 ---
 
 # Render Automation via Rube MCP
+
+## When to Use
+
+- Use this skill when you need to Automate Render tasks via Rube MCP (Composio): services, deployments, projects. Always search tools first for current schemas.
+
 
 Automate Render cloud platform operations through Composio's Render toolkit via Rube MCP.
 

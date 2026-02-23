@@ -5,6 +5,9 @@ allowed-tools: Read Write Edit Bash WebFetch
 metadata:
   version: 1.0.0
   tags: database, cdc, debezium, kafka, prometheus, grafana, monitoring
+risk: safe
+source: community
+
 ---
 
 # Migration Observability and Real-time Monitoring

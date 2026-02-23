@@ -1,6 +1,9 @@
 ---
 name: data-engineering-data-driven-feature
 description: "Build features guided by data insights, A/B testing, and continuous measurement using specialized agents for analysis, implementation, and experimentation."
+risk: safe
+source: community
+
 ---
 
 # Data-Driven Feature Development

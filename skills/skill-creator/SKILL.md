@@ -9,6 +9,8 @@ platforms: [github-copilot-cli, claude-code, codex]
 category: meta
 tags: [automation, scaffolding, skill-creation, meta-skill]
 risk: safe
+source: community
+
 ---
 
 # skill-creator

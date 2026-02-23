@@ -4,9 +4,18 @@ description: |
   Azure Tables SDK for Python (Storage and Cosmos DB). Use for NoSQL key-value storage, entity CRUD, and batch operations.
   Triggers: "table storage", "TableServiceClient", "TableClient", "entities", "PartitionKey", "RowKey".
 package: azure-data-tables
+risk: safe
+source: community
+
 ---
 
 # Azure Tables SDK for Python
+
+## When to Use
+
+- Use this skill when you need to Azure Tables SDK for Python (Storage and Cosmos DB). Use for NoSQL key-value storage, entity CRUD, and batch operations.
+Triggers: "table storage", "TableServiceClient", "TableClient", "entities", "PartitionKey", "RowKey".
+
 
 NoSQL key-value store for structured data (Azure Storage Tables or Cosmos DB Table API).
 

@@ -4,9 +4,18 @@ description: |
   Azure Key Vault Certificates SDK for Rust. Use for creating, importing, and managing certificates.
   Triggers: "keyvault certificates rust", "CertificateClient rust", "create certificate rust", "import certificate rust".
 package: azure_security_keyvault_certificates
+risk: safe
+source: community
+
 ---
 
 # Azure Key Vault Certificates SDK for Rust
+
+## When to Use
+
+- Use this skill when you need to Azure Key Vault Certificates SDK for Rust. Use for creating, importing, and managing certificates.
+Triggers: "keyvault certificates rust", "CertificateClient rust", "create certificate rust", "import certificate rust".
+
 
 Client library for Azure Key Vault Certificates — secure storage and management of certificates.
 

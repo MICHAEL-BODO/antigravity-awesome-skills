@@ -1,9 +1,17 @@
 ---
 name: wiki-onboarding
 description: Generates two complementary onboarding guides — a Principal-Level architectural deep-dive and a Zero-to-Hero contributor walkthrough. Use when the user wants onboarding documentation for a codebase.
+risk: safe
+source: community
+
 ---
 
 # Wiki Onboarding Guide Generator
+
+## When to Use
+
+- Use this skill when you need to Generates two complementary onboarding guides — a Principal-Level architectural deep-dive and a Zero-to-Hero contributor walkthrough. Use when the user wants onboarding documentation for a codebase.
+
 
 Generate two complementary onboarding documents that together give any engineer — from newcomer to principal — a complete understanding of a codebase.
 

@@ -4,9 +4,18 @@ description: |
   Azure API Center Management SDK for Python. Use for managing API inventory, metadata, and governance across your organization.
   Triggers: "azure-mgmt-apicenter", "ApiCenterMgmtClient", "API Center", "API inventory", "API governance".
 package: azure-mgmt-apicenter
+risk: safe
+source: community
+
 ---
 
 # Azure API Center Management SDK for Python
+
+## When to Use
+
+- Use this skill when you need to Azure API Center Management SDK for Python. Use for managing API inventory, metadata, and governance across your organization.
+Triggers: "azure-mgmt-apicenter", "ApiCenterMgmtClient", "API Center", "API inventory", "API governance".
+
 
 Manage API inventory, metadata, and governance in Azure API Center.
 

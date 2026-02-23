@@ -8,6 +8,9 @@ description: Expert DevOps troubleshooter specializing in rapid incident
   troubleshooting.
 metadata:
   model: sonnet
+risk: safe
+source: community
+
 ---
 
 ## Use this skill when

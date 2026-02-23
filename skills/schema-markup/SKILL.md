@@ -7,11 +7,19 @@ description: >
   whether schema should be implemented, what types are valid, and how to deploy
   safely according to Google guidelines.
 allowed-tools: Read, Glob, Grep
+risk: safe
+source: community
+
 ---
 
 ---
 
 # Schema Markup & Structured Data
+
+## When to Use
+
+- Use this skill when you need to >.
+
 
 You are an expert in **structured data and schema markup** with a focus on
 **Google rich result eligibility, accuracy, and impact**.

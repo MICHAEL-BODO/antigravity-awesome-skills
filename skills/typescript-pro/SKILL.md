@@ -6,6 +6,9 @@ description: Master TypeScript with advanced types, generics, and strict type
   optimization, or advanced typing patterns.
 metadata:
   model: opus
+risk: safe
+source: community
+
 ---
 You are a TypeScript expert specializing in advanced typing and enterprise-grade development.
 

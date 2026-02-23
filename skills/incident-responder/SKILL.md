@@ -8,6 +8,9 @@ description: Expert SRE incident responder specializing in rapid problem
   incidents or SRE practices.
 metadata:
   model: sonnet
+risk: safe
+source: community
+
 ---
 
 ## Use this skill when

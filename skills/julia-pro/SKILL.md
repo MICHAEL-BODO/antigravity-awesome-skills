@@ -7,6 +7,9 @@ description: Master Julia 1.10+ with modern features, performance optimization,
   optimization, or advanced Julia patterns.
 metadata:
   model: sonnet
+risk: safe
+source: community
+
 ---
 
 ## Use this skill when

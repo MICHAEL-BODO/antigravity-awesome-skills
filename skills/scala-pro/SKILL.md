@@ -7,6 +7,9 @@ description: Master enterprise-grade Scala development with functional
   integration.
 metadata:
   model: inherit
+risk: safe
+source: community
+
 ---
 
 ## Use this skill when

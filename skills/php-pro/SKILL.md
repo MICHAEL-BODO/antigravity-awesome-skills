@@ -5,6 +5,9 @@ description: Write idiomatic PHP code with generators, iterators, SPL data
   applications.
 metadata:
   model: inherit
+risk: safe
+source: community
+
 ---
 
 ## Use this skill when

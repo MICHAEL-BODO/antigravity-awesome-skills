@@ -6,6 +6,9 @@ description: This skill should be used when the user asks to "analyze
   competitive strategy analysis.
 metadata:
   version: 1.0.0
+risk: safe
+source: community
+
 ---
 
 # Competitive Landscape Analysis

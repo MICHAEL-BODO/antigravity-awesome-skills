@@ -4,9 +4,18 @@ description: |
   Azure AI Text Translation SDK for real-time text translation, transliteration, language detection, and dictionary lookup. Use for translating text content in applications.
   Triggers: "text translation", "translator", "translate text", "transliterate", "TextTranslationClient".
 package: azure-ai-translation-text
+risk: safe
+source: community
+
 ---
 
 # Azure AI Text Translation SDK for Python
+
+## When to Use
+
+- Use this skill when you need to Azure AI Text Translation SDK for real-time text translation, transliteration, language detection, and dictionary lookup. Use for translating text content in applications.
+Triggers: "text translation", "translator", "translate text", "transliterate", "TextTranslationClient".
+
 
 Client library for Azure AI Translator text translation service for real-time text translation, transliteration, and language operations.
 

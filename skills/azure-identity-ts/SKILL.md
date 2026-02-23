@@ -2,9 +2,17 @@
 name: azure-identity-ts
 description: Authenticate to Azure services using Azure Identity SDK for JavaScript (@azure/identity). Use when configuring authentication with DefaultAzureCredential, managed identity, service principals, or interactive browser login.
 package: "@azure/identity"
+risk: safe
+source: community
+
 ---
 
 # Azure Identity SDK for TypeScript
+
+## When to Use
+
+- Use this skill when you need to Authenticate to Azure services using Azure Identity SDK for JavaScript (@azure/identity). Use when configuring authentication with DefaultAzureCredential, managed identity, service principals, or interactive browser login.
+
 
 Authenticate to Azure services with various credential types.
 

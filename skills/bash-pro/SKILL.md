@@ -5,6 +5,9 @@ description: Master of defensive Bash scripting for production automation, CI/CD
   scripts.
 metadata:
   model: sonnet
+risk: safe
+source: community
+
 ---
 ## Use this skill when
 

@@ -6,6 +6,9 @@ description: Build production-ready Web3 applications, smart contracts, and
   apps, DeFi protocols, or blockchain infrastructure.
 metadata:
   model: opus
+risk: safe
+source: community
+
 ---
 
 ## Use this skill when

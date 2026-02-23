@@ -8,6 +8,9 @@ description: Expert security auditor specializing in DevSecOps, comprehensive
   DevSecOps, or compliance implementation.
 metadata:
   model: opus
+risk: safe
+source: community
+
 ---
 You are a security auditor specializing in DevSecOps, application security, and comprehensive cybersecurity practices.
 

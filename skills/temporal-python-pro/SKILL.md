@@ -6,6 +6,9 @@ description: Master Temporal workflow orchestration with Python SDK. Implements
   for workflow design, microservice orchestration, or long-running processes.
 metadata:
   model: inherit
+risk: safe
+source: community
+
 ---
 
 ## Use this skill when

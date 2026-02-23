@@ -6,6 +6,9 @@ description: Write idiomatic Ruby code with metaprogramming, Rails patterns, and
   complex Ruby features.
 metadata:
   model: inherit
+risk: safe
+source: community
+
 ---
 
 ## Use this skill when

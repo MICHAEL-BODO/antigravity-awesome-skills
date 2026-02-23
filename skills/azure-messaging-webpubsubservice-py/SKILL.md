@@ -4,9 +4,18 @@ description: |
   Azure Web PubSub Service SDK for Python. Use for real-time messaging, WebSocket connections, and pub/sub patterns.
   Triggers: "azure-messaging-webpubsubservice", "WebPubSubServiceClient", "real-time", "WebSocket", "pub/sub".
 package: azure-messaging-webpubsubservice
+risk: safe
+source: community
+
 ---
 
 # Azure Web PubSub Service SDK for Python
+
+## When to Use
+
+- Use this skill when you need to Azure Web PubSub Service SDK for Python. Use for real-time messaging, WebSocket connections, and pub/sub patterns.
+Triggers: "azure-messaging-webpubsubservice", "WebPubSubServiceClient", "real-time", "WebSocket", "pub/sub".
+
 
 Real-time messaging with WebSocket connections at scale.
 

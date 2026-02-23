@@ -3,9 +3,17 @@ name: zendesk-automation
 description: "Automate Zendesk tasks via Rube MCP (Composio): tickets, users, organizations, replies. Always search tools first for current schemas."
 requires:
   mcp: [rube]
+risk: safe
+source: community
+
 ---
 
 # Zendesk Automation via Rube MCP
+
+## When to Use
+
+- Use this skill when you need to Automate Zendesk tasks via Rube MCP (Composio): tickets, users, organizations, replies. Always search tools first for current schemas.
+
 
 Automate Zendesk operations through Composio's Zendesk toolkit via Rube MCP.
 

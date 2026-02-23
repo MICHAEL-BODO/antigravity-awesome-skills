@@ -4,9 +4,18 @@ description: |
   Azure Blob Storage SDK for Rust. Use for uploading, downloading, and managing blobs and containers.
   Triggers: "blob storage rust", "BlobClient rust", "upload blob rust", "download blob rust", "container rust".
 package: azure_storage_blob
+risk: safe
+source: community
+
 ---
 
 # Azure Blob Storage SDK for Rust
+
+## When to Use
+
+- Use this skill when you need to Azure Blob Storage SDK for Rust. Use for uploading, downloading, and managing blobs and containers.
+Triggers: "blob storage rust", "BlobClient rust", "upload blob rust", "download blob rust", "container rust".
+
 
 Client library for Azure Blob Storage — Microsoft's object storage solution for the cloud.
 

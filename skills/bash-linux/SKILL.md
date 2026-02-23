@@ -2,9 +2,17 @@
 name: bash-linux
 description: Bash/Linux terminal patterns. Critical commands, piping, error handling, scripting. Use when working on macOS or Linux systems.
 allowed-tools: Read, Write, Edit, Glob, Grep, Bash
+risk: safe
+source: community
+
 ---
 
 # Bash Linux Patterns
+
+## When to Use
+
+- Use this skill when you need to Bash/Linux terminal patterns. Critical commands, piping, error handling, scripting. Use when working on macOS or Linux systems.
+
 
 > Essential patterns for Bash on Linux/macOS.
 

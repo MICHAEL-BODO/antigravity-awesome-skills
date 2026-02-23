@@ -7,6 +7,9 @@ allowed-tools: Read Glob Grep Bash
 metadata:
   model: opus
   color: cyan
+risk: safe
+source: community
+
 ---
 
 # Check if conductor directory exists

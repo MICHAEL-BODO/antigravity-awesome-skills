@@ -5,6 +5,9 @@ description: Analyzes keyword usage in provided content, calculates density,
   over-optimization. Use PROACTIVELY for content optimization.
 metadata:
   model: haiku
+risk: safe
+source: community
+
 ---
 
 ## Use this skill when
